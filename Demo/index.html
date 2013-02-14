@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<script src="http://code.jquery.com/jquery-1.9.0.js"></script>
+	<script type="text/javascript" src="jquery.ebcaptcha.js"></script>
+		<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+
+	<div class="captcha">
+
+		<h1>EBCaptcha</h1>
+		<img src="images/logo.png" alt="Edon Bajrami Logo">
+		<form method="post" id="form">
+
+			<input type="submit">
+
+		</form> 
+
+	</div> <!-- End of the captcha -->
+
+	<script type="text/javascript">
+
+	    $(function(){
+	        $('#form').ebcaptcha();
+	    });
+
+    </script>
+
+</body>
+</html>

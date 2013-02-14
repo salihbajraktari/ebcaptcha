@@ -1,0 +1,486 @@
+{
+   "browser": {
+      "hung_plugin_detect_freq": 2000,
+      "last_redirect_origin": "",
+      "plugin_message_response_timeout": 25000
+   },
+   "http_original_content_length": "3678997828",
+   "http_received_content_length": "3678997828",
+   "intl": {
+      "app_locale": "en"
+   },
+   "local_state": {
+      "multiple_profile_prefs_version": 7
+   },
+   "plugins": {
+      "metadata": {
+         "adobe-flash-player": {
+            "displayurl": true,
+            "group_name_matcher": "Shockwave Flash",
+            "help_url": "https://support.google.com/chrome/?p=plugin_flash",
+            "lang": "en-US",
+            "mime_types": [ "application/futuresplash", "application/x-shockwave-flash" ],
+            "name": "Adobe Flash Player",
+            "url": "http://get.adobe.com/flashplayer/",
+            "versions": [ {
+               "reference": "http://www.adobe.com/support/security/bulletins/apsb12-03.html",
+               "status": "up_to_date",
+               "version": "11.1.102"
+            } ]
+         },
+         "adobe-reader": {
+            "group_name_matcher": "Adobe Acrobat",
+            "help_url": "https://support.google.com/chrome/?p=plugin_pdf",
+            "lang": "en-US",
+            "mime_types": [ "application/pdf", "application/vnd.adobe.x-mars", "application/vnd.adobe.xdp+xml", "application/vnd.adobe.xfd+xml", "application/vnd.adobe.xfdf", "application/vnd.fdf" ],
+            "name": "Adobe Reader",
+            "url": "http://ardownload.adobe.com/pub/adobe/reader/win/10.x/10.1.4/en_US/AdbeRdr1014_en_US.exe",
+            "versions": [ {
+               "reference": "http://www.adobe.com/support/security/bulletins/apsb12-16.html",
+               "status": "requires_authorization",
+               "version": "9.5.2"
+            }, {
+               "status": "out_of_date",
+               "version": "10"
+            }, {
+               "reference": "http://www.adobe.com/support/security/bulletins/apsb12-16.html",
+               "status": "up_to_date",
+               "version": "10.1.4"
+            } ]
+         },
+         "adobe-shockwave": {
+            "group_name_matcher": "Shockwave for Director",
+            "help_url": "https://support.google.com/chrome/?p=plugin_shockwave",
+            "lang": "en-US",
+            "mime_types": [ "application/x-director" ],
+            "name": "Adobe Shockwave Player",
+            "url": "http://fpdownload.macromedia.com/get/shockwave/default/english/win95nt/latest/Shockwave_Installer_Slim.exe",
+            "versions": [ {
+               "reference": "http://www.adobe.com/support/security/bulletins/apsb12-17.html",
+               "status": "requires_authorization",
+               "version": "11.6.6.636"
+            } ]
+         },
+         "apple-quicktime": {
+            "group_name_matcher": "QuickTime Plug-in",
+            "help_url": "https://support.google.com/chrome/?p=plugin_quicktime",
+            "lang": "en-US",
+            "mime_types": [ "application/sdp", "application/x-mpeg", "application/x-rtsp", "application/x-sdp", "audio/3ggp", "audio/3ggp2", "audio/aac", "audio/ac3", "audio/aiff", "audio/amr", "audio/basic", "audio/mid", "audio/midi", "audio/mp4", "audio/mpeg", "audio/vnd.qcelp", "audio/wav", "audio/x-aac", "audio/x-ac3", "audio/x-aiff", "audio/x-caf", "audio/x-gsm", "audio/x-m4a", "audio/x-m4b", "audio/x-m4p", "audio/x-midi", "audio/x-mpeg", "audio/x-wav", "image/jp2", "image/jpeg2000", "image/jpeg2000-image", "image/pict", "image/png", "image/x-jpeg2000-image", "image/x-macpaint", "image/x-pict", "image/x-png", "image/x-quicktime", "image/x-sgi", "image/x-targa", "video/3ggp", "video/3ggp2", "video/flc", "video/mp4", "video/mpeg", "video/quicktime", "video/sd-video", "video/x-m4v", "video/x-mpeg" ],
+            "name": "QuickTime Player",
+            "url": "http://appldnld.apple.com/QuickTime/041-3089.20111026.Sxpr4/QuickTimeInstaller.exe",
+            "versions": [ {
+               "status": "requires_authorization",
+               "version": "7.6.9"
+            } ]
+         },
+         "divx-player": {
+            "group_name_matcher": "DivX Web Player",
+            "help_url": "https://support.google.com/chrome/?p=plugin_divx",
+            "lang": "en-US",
+            "mime_types": [ "video/divx", "video/x-matroska" ],
+            "name": "DivX Web Player",
+            "url": "http://download.divx.com/player/divxdotcom/DivXWebPlayerInstaller.exe",
+            "versions": [ {
+               "status": "requires_authorization",
+               "version": "1.4.3.4"
+            } ]
+         },
+         "google-chrome-pdf": {
+            "group_name_matcher": "Chrome PDF Viewer",
+            "name": "Chrome PDF Viewer",
+            "versions": [ {
+               "comment": "Chrome PDF Viewer has no version information.",
+               "status": "up_to_date",
+               "version": "0"
+            } ]
+         },
+         "google-talk": {
+            "group_name_matcher": "Google Talk",
+            "name": "Google Talk",
+            "versions": [ {
+               "comment": "'Google Talk Plugin' and 'Google Talk Plugin Video Accelerator' use two completely different versioning schemes, so we can't define a minimum version.",
+               "status": "up_to_date",
+               "version": "0"
+            } ]
+         },
+         "java-runtime-environment": {
+            "displayurl": true,
+            "group_name_matcher": "Java",
+            "help_url": "https://support.google.com/chrome/?p=plugin_java",
+            "lang": "en-US",
+            "mime_types": [ "application/x-java-applet", "application/x-java-applet;jpi-version=1.7.0_05", "application/x-java-applet;version=1.1", "application/x-java-applet;version=1.1.1", "application/x-java-applet;version=1.1.2", "application/x-java-applet;version=1.1.3", "application/x-java-applet;version=1.2", "application/x-java-applet;version=1.2.1", "application/x-java-applet;version=1.2.2", "application/x-java-applet;version=1.3", "application/x-java-applet;version=1.3.1", "application/x-java-applet;version=1.4", "application/x-java-applet;version=1.4.1", "application/x-java-applet;version=1.4.2", "application/x-java-applet;version=1.5", "application/x-java-applet;version=1.6", "application/x-java-applet;version=1.7", "application/x-java-bean", "application/x-java-bean;jpi-version=1.7.0_05", "application/x-java-bean;version=1.1", "application/x-java-bean;version=1.1.1", "application/x-java-bean;version=1.1.2", "application/x-java-bean;version=1.1.3", "application/x-java-bean;version=1.2", "application/x-java-bean;version=1.2.1", "application/x-java-bean;version=1.2.2", "application/x-java-bean;version=1.3", "application/x-java-bean;version=1.3.1", "application/x-java-bean;version=1.4", "application/x-java-bean;version=1.4.1", "application/x-java-bean;version=1.4.2", "application/x-java-bean;version=1.5", "application/x-java-bean;version=1.6", "application/x-java-bean;version=1.7", "application/x-java-vm", "application/x-java-vm-npruntime" ],
+            "name": "Java(TM)",
+            "url": "http://java.com/download",
+            "versions": [ {
+               "comment": "Java SE 6 Update 35. '350' is not a typo.",
+               "status": "requires_authorization",
+               "version": "6.0.350"
+            }, {
+               "status": "out_of_date",
+               "version": "7"
+            }, {
+               "comment": "Java SE 7u7",
+               "status": "requires_authorization",
+               "version": "10.7.2"
+            } ]
+         },
+         "microsoft-office": {
+            "group_name_matcher": "Microsoft Office",
+            "name": "Microsoft Office",
+            "versions": [ {
+               "comment": "Microsoft Office has no version information.",
+               "status": "requires_authorization",
+               "version": "0"
+            } ]
+         },
+         "nvidia-3d": {
+            "group_name_matcher": "NVIDIA 3D",
+            "name": "NVIDIA 3D",
+            "versions": [ {
+               "comment": "NVidia 3D has no version information.",
+               "status": "requires_authorization",
+               "version": "0"
+            } ]
+         },
+         "realplayer": {
+            "group_name_matcher": "RealPlayer",
+            "help_url": "https://support.google.com/chrome/?p=plugin_real",
+            "lang": "en-US",
+            "mime_types": [ "audio/vnd.rn-realaudio", "video/vnd.rn-realvideo", "audio/x-pn-realaudio-plugin", "audio/x-pn-realaudio" ],
+            "name": "RealPlayer",
+            "url": "http://forms.real.com/real/realone/download.html?type=rpsp_us",
+            "versions": [ {
+               "reference": "http://service.real.com/realplayer/security/02062012_player/en/",
+               "status": "requires_authorization",
+               "version": "15.0.2.71"
+            } ]
+         },
+         "silverlight": {
+            "group_name_matcher": "Silverlight",
+            "lang": "en-US",
+            "mime_types": [ "application/x-silverlight", "application/x-silverlight-2" ],
+            "name": "Silverlight",
+            "url": "http://go.microsoft.com/fwlink/?LinkID=149156",
+            "versions": [ {
+               "reference": "http://support.microsoft.com/kb/2668562",
+               "status": "up_to_date",
+               "version": "4.1.10111.0"
+            } ]
+         },
+         "windows-media-player": {
+            "displayurl": true,
+            "group_name_matcher": "Windows Media Player",
+            "help_url": "https://support.google.com/chrome/?p=plugin_wmp",
+            "lang": "en-US",
+            "mime_types": [ "application/asx", "application/x-mplayer2", "application/x-ms-wmp", "audio/x-ms-wax", "audio/x-ms-wma", "video/x-ms-asf", "video/x-ms-asf-plugin", "video/x-ms-wm", "video/x-ms-wmv", "video/x-ms-wvx" ],
+            "name": "Windows Media Player",
+            "url": "http://www.interoperabilitybridges.com/wmp-extension-for-chrome"
+         }
+      },
+      "resource_cache_update": "1360308711.171838"
+   },
+   "policy": {
+      "last_statistics_update": "13004782255664838"
+   },
+   "profile": {
+      "info_cache": {
+         "Default": {
+            "avatar_icon": "chrome://theme/IDR_PROFILE_AVATAR_0",
+            "background_apps": true,
+            "name": "First user",
+            "user_name": "edonbajrami89@gmail.com"
+         }
+      },
+      "last_active_profiles": [ "Default" ],
+      "last_used": "Default"
+   },
+   "protocol_handler": {
+      "excluded_schemes": {
+         "afp": true,
+         "data": true,
+         "disk": true,
+         "disks": true,
+         "file": true,
+         "hcp": true,
+         "javascript": true,
+         "magnet": false,
+         "mailto": false,
+         "ms-help": true,
+         "news": false,
+         "nntp": true,
+         "shell": true,
+         "snews": false,
+         "vbscript": true,
+         "view-source": true,
+         "vnd": {
+            "ms": {
+               "radio": true
+            }
+         }
+      }
+   },
+   "show-first-run-bubble": false,
+   "shutdown": {
+      "num_processes": 0,
+      "num_processes_slow": 0,
+      "type": 0
+   },
+   "task_manager": {
+      "window_placement": {
+         "bottom": 518,
+         "left": 445,
+         "maximized": false,
+         "right": 921,
+         "top": 210,
+         "work_area_bottom": 728,
+         "work_area_left": 0,
+         "work_area_right": 1366,
+         "work_area_top": 0
+      }
+   },
+   "uninstall_metrics": {
+      "installation_date2": "1359237779",
+      "launch_count": "31"
+   },
+   "user_experience_metrics": {
+      "low_entropy_source": 3998,
+      "session_id": 30,
+      "stability": {
+         "breakpad_registration_fail": 0,
+         "breakpad_registration_ok": 0,
+         "crash_count": 14,
+         "debugger_not_present": 15,
+         "debugger_present": 0,
+         "exited_cleanly": false,
+         "incomplete_session_end_count": 0,
+         "last_timestamp_sec": "1360340751",
+         "launch_count": 15,
+         "launch_time_sec": "1360308651",
+         "page_load_count": 0,
+         "plugin_stats2": [ {
+            "crashes": 0,
+            "instances": 0,
+            "launches": 0,
+            "loading_errors": 3,
+            "name": "Chrome Remote Desktop Viewer"
+         } ],
+         "renderer_crash_count": 0,
+         "renderer_hang_count": 0,
+         "session_end_completed": true,
+         "stats_buildtime": "1359129014",
+         "stats_version": "24.0.1312.57"
+      }
+   },
+   "variations_seed": "Cig1ZDk4YzUzMGE0YjkzM2YyMDAzNzU2ZjhiZmNiZWM3ZDU1NzQ1MjE2EmYKCEFzeW5jRG5zGMSb44oFOABCClN5c3RlbURuc0FKDgoKU3lzdGVtRG5zQRAZSg4KClN5c3RlbURuc0IQGUoNCglBc3luY0Ruc0EQGUoNCglBc3luY0Ruc0IQGVIIEgQyNS4qKAMSbgoIQXN5bmNEbnMYxJvjigU4AEIKU3lzdGVtRG5zQUoOCgpTeXN0ZW1EbnNBEBlKDgoKU3lzdGVtRG5zQhAZSg0KCUFzeW5jRG5zQRAZSg0KCUFzeW5jRG5zQhAZUhASBDI0LiogACABKAAoASgCEosBChpBdXRvY29tcGxldGVEeW5hbWljVHJpYWxfMBiAtY2WBTgBQhNMaXZlU3BlbGxpbmdDb250cm9sSiAKFkxpdmVTcGVsbGluZ0V4cGVyaW1lbnQQtgcYhoTKAUocChNMaXZlU3BlbGxpbmdDb250cm9sEDIYh4TKAVIQEgQyNi4qIAAgASgAKAEoAhKYAQoYQ2FjaGVTZW5zaXRpdml0eUFuYWx5c2lzGMS0jZYFQgJOb0oGCgJObxAkSgwKCENvbnRyb2xBEAhKDAoIQ29udHJvbEIQCEoICgQxMDBBEAhKCAoEMTAwQhAISggKBDIwMEEQCEoICgQyMDBCEAhKCAoENDAwQRAISggKBDQwMEIQCFISEgQyNS4qIAAgASACKAAoASgCEkQKEURuc1Byb2JlLUF0dGVtcHRzGIC1jZYFOAFCB2RlZmF1bHRKCwoHZGVmYXVsdBBaSgUKATEQClIKEgQyNS4qIAAgARJHCg9EbnNQcm9iZS1FbmFibGUYgLWNlgU4AUIHZGlzYWJsZUoLCgdkaXNhYmxlEABKCgoGZW5hYmxlEGRSChIEMjUuKiAAIAESYwojVU1BLUR5bmFtaWMtQmluYXJ5LVVuaWZvcm1pdHktVHJpYWwYgJySpQU4AUIHZGVmYXVsdEoQCgdkZWZhdWx0EDIYqbbJAUoRCghncm91cF8wMRAyGKq2yQFSBiAAIAEgAhJfCiNVTUEtRHluYW1pYy1CaW5hcnktVW5pZm9ybWl0eS1UcmlhbBiAnJKlBTgBQgdkZWZhdWx0ShAKB2RlZmF1bHQQYxiptskBShEKCGdyb3VwXzAxEAEYqrbJAVICIAMSVwoURm9yY2VDb21wb3NpdGluZ01vZGUYgJKIlgU4AUIHZGlzYWJsZUoLCgdkaXNhYmxlEGRKCwoHZW5hYmxlZBAASgoKBnRocmVhZBAAUggSBDI0LiooAhJbChRGb3JjZUNvbXBvc2l0aW5nTW9kZRiAkoiWBTgBQgdkaXNhYmxlSgsKB2Rpc2FibGUQAEoLCgdlbmFibGVkEGRKCgoGdGhyZWFkEABSDBIEMjQuKiABIAAoARJbChRGb3JjZUNvbXBvc2l0aW5nTW9kZRiAkoiWBTgBQgdkaXNhYmxlSgsKB2Rpc2FibGUQZEoLCgdlbmFibGVkEABKCgoGdGhyZWFkEABSDBIEMjQuKiADIAIoARJdChRGb3JjZUNvbXBvc2l0aW5nTW9kZRiAkoiWBTgBQgdkaXNhYmxlSgsKB2Rpc2FibGUQAEoLCgdlbmFibGVkEABKCgoGdGhyZWFkEGRSDhIEMjQuKiAAIAEgAigAElkKFEZvcmNlQ29tcG9zaXRpbmdNb2RlGICSiJYFOAFCB2Rpc2FibGVKCwoHZGlzYWJsZRAASgsKB2VuYWJsZWQQWkoKCgZ0aHJlYWQQClIKEgQyNC4qIAMoABKLAQoNSG9zdENhY2hlU2l6ZRjEzYiHBTgAQgdEZWZhdWx0SgsKB0RlZmF1bHQQAEoICgQxMDBBEApKCAoEMTAwQhAKSggKBDMwMEEQCkoICgQzMDBCEApKCQoFMTAwMEEQCkoJCgUxMDAwQhAKSgkKBTMwMDBBEApKCQoFMzAwMEIQClIIEgQyNS4qKAMSkwEKDUhvc3RDYWNoZVNpemUYxKz3hwU4AEIHRGVmYXVsdEoLCgdEZWZhdWx0EABKCAoEMTAwQRAKSggKBDEwMEIQCkoICgQzMDBBEApKCAoEMzAwQhAKSgkKBTEwMDBBEApKCQoFMTAwMEIQCkoJCgUzMDAwQRAKSgkKBTMwMDBCEApSEBIEMjUuKiAAIAEoACgBKAISRAoNSW5maW5pdGVDYWNoZRjEtI2WBTgBQgJOb0oHCgJObxDUB0oHCgNZZXMQCkoLCgdDb250cm9sEApSCCACKAAoASgCEkYKDUluZmluaXRlQ2FjaGUYxLSNlgU4AUICTm9KBwoCTm8QhAdKBwoDWWVzEDJKCwoHQ29udHJvbBAyUgogACABKAAoASgCEkQKDUluZmluaXRlQ2FjaGUYxLSNlgU4AUICTm9KBwoCTm8Q5gdKBwoDWWVzEAFKCwoHQ29udHJvbBABUgggAygAKAEoAhKnAQoMSW5zdGFudER1bW15GIDqvY4FOAFCDERlZmF1bHRHcm91cEoRCgdDb250cm9sEKwCGMqDygFKFQoLRXhwZXJpbWVudDEQrAIYy4PKAUodChRFeHBlcmltZW50Ml9ESVNBQkxFRBAyGMyDygFKGAoURXhwZXJpbWVudDNfRElTQUJMRUQQMkoWCgxEZWZhdWx0R3JvdXAQrAIYyYPKAVIGIAAoACgDEqUBCgxJbnN0YW50RHVtbXkYgOq9jgU4AUIMRGVmYXVsdEdyb3VwShAKB0NvbnRyb2wQZBjKg8oBShQKC0V4cGVyaW1lbnQxEGQYy4PKAUodChRFeHBlcmltZW50Ml9ESVNBQkxFRBAyGMyDygFKGAoURXhwZXJpbWVudDNfRElTQUJMRUQQMkoWCgxEZWZhdWx0R3JvdXAQvAUYyYPKAVIGIAEoACgDErsBCg9JbnN0YW50RXh0ZW5kZWQYgOq9jgU4AUIMRGVmYXVsdEdyb3VwSg8KBkdyb3VwMRAyGICEygFKEQoIQ29udHJvbDEQMhiBhMoBSg8KBkdyb3VwMhAyGIKEygFKEQoIQ29udHJvbDIQMhiDhMoBShgKD0dyb3VwMyBlc3B2OjEwMRAyGISEygFKEQoIQ29udHJvbDMQMhiFhMoBShEKDERlZmF1bHRHcm91cBC8BVIKEgQyNS4qIAIoABJzCg9JbnN0YW50RXh0ZW5kZWQYgOq9jgU4AUIMRGVmYXVsdEdyb3VwShQKD0dyb3VwMV9ESVNBQkxFRBD6AUoVChBDb250cm9sX0RJU0FCTEVEEPoBShEKDERlZmF1bHRHcm91cBD0A1IKEgQyNS4qIAAoABJ9Cg9JbnN0YW50RXh0ZW5kZWQYgOq9jgU4AUIMRGVmYXVsdEdyb3VwShkKD0dyb3VwMV9ESVNBQkxFRBD6ARjlg8oBShoKEENvbnRyb2xfRElTQUJMRUQQ+gEY5oPKAUoRCgxEZWZhdWx0R3JvdXAQ9ANSChIEMjUuKiABKAASVwoMTmV3VGFiQnV0dG9uGIC1jZYFOAFCB2RlZmF1bHRKCwoHZGVmYXVsdBBiSgsKB0NvbnRyb2wQAUoICgRQbHVzEAFSEhIMMjEuMC4xMTgwLjE1IAMoABJkChdQcmVyZW5kZXJMb2NhbFByZWRpY3RvchjEtI2WBUIIRGlzYWJsZWRKDQoIRGlzYWJsZWQQ1AdKCwoHRW5hYmxlZBAKSgsKB0NvbnRyb2wQClIQEgQyNS4qIAMgAigAKAEoAhJkChdQcmVyZW5kZXJMb2NhbFByZWRpY3RvchjEtI2WBUIIRGlzYWJsZWRKDAoIRGlzYWJsZWQQZEoMCgdFbmFibGVkEKAGSgsKB0NvbnRyb2wQZFIQEgQyNS4qIAAgASgAKAEoAhI2Cg5TQkludGVyc3RpdGlhbBjA0o2JBTgBQgJWMUoGCgJWMRABSgYKAlYyEGNSCCgAKAEoAigDElAKD1NpZGVsb2FkV2lwZW91dDgBQghEaXNhYmxlZEoMCghEaXNhYmxlZBAKSgwKB0VuYWJsZWQQvgFSFRILMjUuMC4xMzYwLiogACABIAIoABKVAwoeU3BlY3VsYXRpdmVSZXNvdXJjZVByZWZldGNoaW5nGICc44oFOAFCCERpc2FibGVkSgwKCERpc2FibGVkEChKEAoMTGVhcm5pbmdIb3N0EApKDwoLTGVhcm5pbmdVUkwQCkoMCghMZWFybmluZxAKShMKD1ByZWZldGNoaW5nSG9zdBAKShIKDlByZWZldGNoaW5nVVJMEApKDwoLUHJlZmV0Y2hpbmcQCkocChhQcmVmZXRjaGluZ0xvd0NvbmZpZGVuY2UQAEodChlQcmVmZXRjaGluZ0hpZ2hDb25maWRlbmNlEABKHAoYUHJlZmV0Y2hpbmdNb3JlUmVzb3VyY2VzEABKEwoPTGVhcm5pbmdTbWFsbERCEABKFgoSUHJlZmV0Y2hpbmdTbWFsbERCEABKIwofUHJlZmV0Y2hpbmdTbWFsbERCTG93Q29uZmlkZW5jZRAASiQKIFByZWZldGNoaW5nU21hbGxEQkhpZ2hDb25maWRlbmNlEABSFRILMjUuMC4xMzY0LiogAigAKAEoAhKXAwoeU3BlY3VsYXRpdmVSZXNvdXJjZVByZWZldGNoaW5nGICc44oFOAFCCERpc2FibGVkSgwKCERpc2FibGVkEChKEAoMTGVhcm5pbmdIb3N0EApKDwoLTGVhcm5pbmdVUkwQCkoMCghMZWFybmluZxAKShMKD1ByZWZldGNoaW5nSG9zdBAKShIKDlByZWZldGNoaW5nVVJMEApKDwoLUHJlZmV0Y2hpbmcQCkocChhQcmVmZXRjaGluZ0xvd0NvbmZpZGVuY2UQAEodChlQcmVmZXRjaGluZ0hpZ2hDb25maWRlbmNlEABKHAoYUHJlZmV0Y2hpbmdNb3JlUmVzb3VyY2VzEABKEwoPTGVhcm5pbmdTbWFsbERCEABKFgoSUHJlZmV0Y2hpbmdTbWFsbERCEABKIwofUHJlZmV0Y2hpbmdTbWFsbERCTG93Q29uZmlkZW5jZRAASiQKIFByZWZldGNoaW5nU21hbGxEQkhpZ2hDb25maWRlbmNlEABSFxILMjUuMC4xMzY0LiogACABKAAoASgCEk8KDUVuYWJsZVN0YWdlM0QYgIj+hgU4AUIHZW5hYmxlZEoMCgdlbmFibGVkELYHSg8KC2JsYWNrbGlzdGVkEDJSDhIEMjIuKiAAIAEgAigAElEKDUVuYWJsZVN0YWdlM0QYgIj+hgU4AUIHZW5hYmxlZEoMCgdlbmFibGVkEOgHSg8KC2JsYWNrbGlzdGVkEABSEBIEMjIuKhoEMjIuKiADKAASaAoNRW5hYmxlU3RhZ2UzRBiAgsWJBTgBQg9lbmFibGVkX2RlZmF1bHRKEwoPZW5hYmxlZF9kZWZhdWx0EABKDAoHZW5hYmxlZBDoB0oPCgtibGFja2xpc3RlZBAAUgoSBDIzLiogAygAEkEKE1Rlc3QwUGVyY2VudERlZmF1bHQYgJySpQU4AUIHZGVmYXVsdEoLCgdkZWZhdWx0EABKDAoIZ3JvdXBfMDEQZBLvAQofVU1BLVVuaWZvcm1pdHktVHJpYWwtMTAtUGVyY2VudBiAnJKlBTgBQgdkZWZhdWx0ShAKB2RlZmF1bHQQARiYtskBShEKCGdyb3VwXzAxEAEYmbbJAUoRCghncm91cF8wMhABGJq2yQFKEQoIZ3JvdXBfMDMQARibtskBShEKCGdyb3VwXzA0EAEYnLbJAUoRCghncm91cF8wNRABGJ22yQFKEQoIZ3JvdXBfMDYQARietskBShEKCGdyb3VwXzA3EAEYn7bJAUoRCghncm91cF8wOBABGKC2yQFKEQoIZ3JvdXBfMDkQARihtskBEpwPCh5VTUEtVW5pZm9ybWl0eS1UcmlhbC0xLVBlcmNlbnQYgJySpQU4AUIHZGVmYXVsdEoQCgdkZWZhdWx0EAEYoLXJAUoRCghncm91cF8wMRABGKG1yQFKEQoIZ3JvdXBfMDIQARiitckBShEKCGdyb3VwXzAzEAEYo7XJAUoRCghncm91cF8wNBABGKS1yQFKEQoIZ3JvdXBfMDUQARiltckBShEKCGdyb3VwXzA2EAEYprXJAUoRCghncm91cF8wNxABGKe1yQFKEQoIZ3JvdXBfMDgQARiotckBShEKCGdyb3VwXzA5EAEYqbXJAUoRCghncm91cF8xMBABGKq1yQFKEQoIZ3JvdXBfMTEQARirtckBShEKCGdyb3VwXzEyEAEYrLXJAUoRCghncm91cF8xMxABGK21yQFKEQoIZ3JvdXBfMTQQARiutckBShEKCGdyb3VwXzE1EAEYr7XJAUoRCghncm91cF8xNhABGLC1yQFKEQoIZ3JvdXBfMTcQARixtckBShEKCGdyb3VwXzE4EAEYsrXJAUoRCghncm91cF8xORABGLO1yQFKEQoIZ3JvdXBfMjAQARi0tckBShEKCGdyb3VwXzIxEAEYtbXJAUoRCghncm91cF8yMhABGLa1yQFKEQoIZ3JvdXBfMjMQARi3tckBShEKCGdyb3VwXzI0EAEYuLXJAUoRCghncm91cF8yNRABGLm1yQFKEQoIZ3JvdXBfMjYQARi6tckBShEKCGdyb3VwXzI3EAEYu7XJAUoRCghncm91cF8yOBABGLy1yQFKEQoIZ3JvdXBfMjkQARi9tckBShEKCGdyb3VwXzMwEAEYvrXJAUoRCghncm91cF8zMRABGL+1yQFKEQoIZ3JvdXBfMzIQARjAtckBShEKCGdyb3VwXzMzEAEYwbXJAUoRCghncm91cF8zNBABGMK1yQFKEQoIZ3JvdXBfMzUQARjDtckBShEKCGdyb3VwXzM2EAEYxLXJAUoRCghncm91cF8zNxABGMW1yQFKEQoIZ3JvdXBfMzgQARjGtckBShEKCGdyb3VwXzM5EAEYx7XJAUoRCghncm91cF80MBABGMi1yQFKEQoIZ3JvdXBfNDEQARjJtckBShEKCGdyb3VwXzQyEAEYyrXJAUoRCghncm91cF80MxABGMu1yQFKEQoIZ3JvdXBfNDQQARjMtckBShEKCGdyb3VwXzQ1EAEYzbXJAUoRCghncm91cF80NhABGM61yQFKEQoIZ3JvdXBfNDcQARjPtckBShEKCGdyb3VwXzQ4EAEY0LXJAUoRCghncm91cF80ORABGNG1yQFKEQoIZ3JvdXBfNTAQARjStckBShEKCGdyb3VwXzUxEAEY07XJAUoRCghncm91cF81MhABGNS1yQFKEQoIZ3JvdXBfNTMQARjVtckBShEKCGdyb3VwXzU0EAEY1rXJAUoRCghncm91cF81NRABGNe1yQFKEQoIZ3JvdXBfNTYQARjYtckBShEKCGdyb3VwXzU3EAEY2bXJAUoRCghncm91cF81OBABGNq1yQFKEQoIZ3JvdXBfNTkQARjbtckBShEKCGdyb3VwXzYwEAEY3LXJAUoRCghncm91cF82MRABGN21yQFKEQoIZ3JvdXBfNjIQARjetckBShEKCGdyb3VwXzYzEAEY37XJAUoRCghncm91cF82NBABGOC1yQFKEQoIZ3JvdXBfNjUQARjhtckBShEKCGdyb3VwXzY2EAEY4rXJAUoRCghncm91cF82NxABGOO1yQFKEQoIZ3JvdXBfNjgQARjktckBShEKCGdyb3VwXzY5EAEY5bXJAUoRCghncm91cF83MBABGOa1yQFKEQoIZ3JvdXBfNzEQARjntckBShEKCGdyb3VwXzcyEAEY6LXJAUoRCghncm91cF83MxABGOm1yQFKEQoIZ3JvdXBfNzQQARjqtckBShEKCGdyb3VwXzc1EAEY67XJAUoRCghncm91cF83NhABGOy1yQFKEQoIZ3JvdXBfNzcQARjttckBShEKCGdyb3VwXzc4EAEY7rXJAUoRCghncm91cF83ORABGO+1yQFKEQoIZ3JvdXBfODAQARjwtckBShEKCGdyb3VwXzgxEAEY8bXJAUoRCghncm91cF84MhABGPK1yQFKEQoIZ3JvdXBfODMQARjztckBShEKCGdyb3VwXzg0EAEY9LXJAUoRCghncm91cF84NRABGPW1yQFKEQoIZ3JvdXBfODYQARj2tckBShEKCGdyb3VwXzg3EAEY97XJAUoRCghncm91cF84OBABGPi1yQFKEQoIZ3JvdXBfODkQARj5tckBShEKCGdyb3VwXzkwEAEY+rXJAUoRCghncm91cF85MRABGPu1yQFKEQoIZ3JvdXBfOTIQARj8tckBShEKCGdyb3VwXzkzEAEY/bXJAUoRCghncm91cF85NBABGP61yQFKEQoIZ3JvdXBfOTUQARj/tckBShEKCGdyb3VwXzk2EAEYgLbJAUoRCghncm91cF85NxABGIG2yQFKEQoIZ3JvdXBfOTgQARiCtskBShEKCGdyb3VwXzk5EAEYg7bJARKQAQofVU1BLVVuaWZvcm1pdHktVHJpYWwtMjAtUGVyY2VudBiAnJKlBTgBQgdkZWZhdWx0ShAKB2RlZmF1bHQQARiitskBShEKCGdyb3VwXzAxEAEYo7bJAUoRCghncm91cF8wMhABGKS2yQFKEQoIZ3JvdXBfMDMQARiltskBShEKCGdyb3VwXzA0EAEYprbJARJXCh9VTUEtVW5pZm9ybWl0eS1UcmlhbC01MC1QZXJjZW50GICckqUFOAFCB2RlZmF1bHRKEAoHZGVmYXVsdBABGKe2yQFKEQoIZ3JvdXBfMDEQARiotskBEqwDCh5VTUEtVW5pZm9ybWl0eS1UcmlhbC01LVBlcmNlbnQYgJySpQU4AUIHZGVmYXVsdEoQCgdkZWZhdWx0EAEYhLbJAUoRCghncm91cF8wMRABGIW2yQFKEQoIZ3JvdXBfMDIQARiGtskBShEKCGdyb3VwXzAzEAEYh7bJAUoRCghncm91cF8wNBABGIi2yQFKEQoIZ3JvdXBfMDUQARiJtskBShEKCGdyb3VwXzA2EAEYirbJAUoRCghncm91cF8wNxABGIu2yQFKEQoIZ3JvdXBfMDgQARiMtskBShEKCGdyb3VwXzA5EAEYjbbJAUoRCghncm91cF8xMBABGI62yQFKEQoIZ3JvdXBfMTEQARiPtskBShEKCGdyb3VwXzEyEAEYkLbJAUoRCghncm91cF8xMxABGJG2yQFKEQoIZ3JvdXBfMTQQARiStskBShEKCGdyb3VwXzE1EAEYk7bJAUoRCghncm91cF8xNhABGJS2yQFKEQoIZ3JvdXBfMTcQARiVtskBShEKCGdyb3VwXzE4EAEYlrbJAUoRCghncm91cF8xORABGJe2yQE=",
+   "variations_seed_date": "13004572627000000",
+   "was": {
+      "restarted": false
+   }
+}
+                                                                                                                                                                                                                                                 m      ÿÿn     ÿÿo     h7p     i7q     h7r  #   ÿÿs  +   ÿÿt  3   ÿÿu  ;   ÿÿv  C   i7w  S   h7x  [   h7y  c   h7z  k   ÿÿ{  s   i7|  {   h7}  ‹   ÿÿ~  “   ÿÿ  ›   h7€  «   h7  ³   i7‚  3  i7ƒ  ;  i7„  C  i7…  c  h7†  }  ÿÿ‡  …  i7ˆ    ÿÿ‰    ÿÿŠ  ¥  ÿÿ‹  Î  ÿÿÿÿÿÿï  ÿÿ      ÿÿ     ÿÿ     ÿÿ     ÿÿÿÿÿÿ   ÿÿ’      ÿÿ“     ÿÿ”     ÿÿ•     ÿÿ–      ÿÿ—  (   ÿÿ˜  0   ÿÿ™  8   ÿÿš  X   ÿÿ›  `   ÿÿœ  h   ÿÿ  p   ÿÿ  x   ÿÿŸ  €   ÿÿ   ˆ   ÿÿ¡     ÿÿ¢     ÿÿ£  (  ÿÿ¤  0  ÿÿ¥  8  ÿÿ¦  @  ÿÿ§  H  ÿÿ¨  P  ÿÿÿÿÿÿX  ÿÿª      ÿÿ«     ÿÿ¬     ÿÿ­     ÿÿ®  "   ÿÿÿÿÿÿ$   ÿÿ°      ÿÿ±     ÿÿ²  
+   Ùÿ³     ÿÿ´     ÿÿµ  "   ÿÿ¶  *   ÿÿ·  2   ÿÿ¸  3   ÿÿ¹  6   ÿÿº  F    »  v    ¼      ½  à/  ğÿÿÿÿÿè/  ğÿ¿      ÿÿÀ     ÿÿÁ  
+   ÿÿÂ     ÿÿÃ  2   ÿÿÄ  :   ÿÿÅ  J   ÿÿÆ  j   ÿÿÇ  r   ÿÿÈ  z   ÿÿÉ  ‚   ÿÿÊ  Ê   ÿÿË  ­  ÿÿÌ  ½  ÿÿÍ  Õ  ÿÿÎ  İ  ÿÿÏ  ø  ÿÿĞ    ÿÿÿÿÿÿ/  ÿÿÒ      ÿÿÓ     ÿÿÔ  
+   ÿÿÕ     ÿÿÖ     ÿÿ×  "   ÿÿØ  *   ÿÿÙ  2   ÿÿÚ  :   ÿÿÛ  J   ÿÿÜ  R   ÿÿİ  Z   ÿÿŞ  b   ÿÿß  j   ÿÿà  r   ÿÿá  ‚    â  Š   ÿÿã  ’   ÿÿä  š   ÿÿå  ¢   ÿÿæ  ª   ÿÿç  ²   ÿÿè  Ê   ÿÿé  Ğ   ÿÿê  Ø   ÿÿë  à   ÿÿì  í   ÿÿÿÿÿÿş   ÿÿî      ÿÿï     ÿÿğ     ÿÿñ  r   ÿÿò  ‚   ÿÿó  Š   ÿÿô  ‘   ÿÿõ     ÿÿÿÿÿÿ¥    ÷      ÿÿø     ÿÿù  
+   ÿÿú     ÿÿû     ÿÿü  "   ÿÿı  *   ÿÿş  2   ÿÿÿ  :   ÿÿ   B   ÿÿ  J   ÿÿ  R   ÿÿ  Z   ÿÿ  b   ÿÿ  j   ÿÿ  r   ÿÿ  z   ÿÿ  ‚   ÿÿ	  Š   ÿÿ
+  ’   ÿÿ  š   ÿÿ  ¢   ÿÿ  ª   ÿÿ  ²   ÿÿ  º   ÿÿ  Â   ÿÿ  Ò   ÿÿ  Ú   ÿÿ  â   ÿÿ  ê   ÿÿ  ò   ÿÿ  ú   ÿÿ    ÿş/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /  
+ / /  
+ / /   C o p y r i g h t   ( C )   2 0 0 0   M i c r o s o f t   C o r p o r a t i o n  
+ / /  
+ / /   M o d u l e   N a m e :  
+ / /   W m i A p R p l  
+ / /  
+ / /   A b s t r a c t :  
+ / /  
+ / /   D e s c r i b e s   a l l   t h e   c o u n t e r s   s u p p o r t e d   v i a   W M I   H i - P e r f o r m a n c e   p r o v i d e r s  
+ / /  
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /  
+  
+  
+ [ i n f o ]  
+ d r i v e r n a m e = W m i A p R p l  
+ s y m b o l f i l e = W m i A p R p l . h  
+  
+ [ l a n g u a g e s ]  
+ 0 0 9 = E n g l i s h  
+  
+ [ o b j e c t s ]  
+ W M I _ O b j e c t s _ 0 0 9 _ N A M E = W M I   O b j e c t s  
+ B a t t e r y S t a t u s _ 0 0 0 0 0 _ 0 0 9 _ N A M E = B a t t e r y   S t a t u s  
+ M S i S C S I _ C o n n e c t i o n S t a t i s t i c s _ 0 0 0 0 1 _ 0 0 9 _ N A M E = i S C S I   C o n n e c t i o n s  
+ M S i S C S I _ I n i t i a t o r I n s t a n c e S t a t i s t i c s _ 0 0 0 0 2 _ 0 0 9 _ N A M E = i S C S I   I n i t i a t o r   I n s t a n c e  
+ M S i S C S I _ I n i t i a t o r L o g i n S t a t i s t i c s _ 0 0 0 0 3 _ 0 0 9 _ N A M E = i S C S I   I n i t i a t o r   L o g i n   s t a t i s t i c s  
+ M S i S C S I _ M M I P S E C S t a t s _ 0 0 0 0 4 _ 0 0 9 _ N A M E = i S C S I   H B A   M a i n   M o d e   I P S E C   S t a t i s t i c s  
+ M S i S C S I _ N I C P e r f o r m a n c e _ 0 0 0 0 5 _ 0 0 9 _ N A M E = M S i S C S I _ N I C P e r f o r m a n c e  
+ M S i S C S I _ Q M I P S E C S t a t s _ 0 0 0 0 6 _ 0 0 9 _ N A M E = i S C S I   H B A   Q u i c k   M o d e   I P S E C   S t a t i s t i c s  
+ M S i S C S I _ R e q u e s t T i m e S t a t i s t i c s _ 0 0 0 0 7 _ 0 0 9 _ N A M E = i S C S I   R e q u e s t   P r o c e s s i n g   T i m e  
+ M S i S C S I _ S e s s i o n S t a t i s t i c s _ 0 0 0 0 8 _ 0 0 9 _ N A M E = i S C S I   S e s s i o n s  
+ P r o c e s s o r P e r f o r m a n c e _ 0 0 0 0 9 _ 0 0 9 _ N A M E = P r o c e s s o r   P e r f o r m a n c e  
+  
+ [ t e x t ]  
+ W M I _ O b j e c t s _ 0 0 9 _ N A M E = W M I   O b j e c t s  
+ W M I _ O b j e c t s _ 0 0 9 _ H E L P = N u m b e r   o f   W M I   H i g h   P e r f o r m a n c e   p r o v i d e r   r e t u r n e d   b y   W M I   A d a p t e r  
+  
+ B a t t e r y S t a t u s _ 0 0 0 0 0 _ 0 0 9 _ N A M E = B a t t e r y   S t a t u s  
+ B a t t e r y S t a t u s _ 0 0 0 0 0 _ 0 0 9 _ H E L P = B a t t e r y   S t a t u s  
+  
+ M S i S C S I _ C o n n e c t i o n S t a t i s t i c s _ 0 0 0 0 1 _ 0 0 9 _ N A M E = i S C S I   C o n n e c t i o n s  
+ M S i S C S I _ C o n n e c t i o n S t a t i s t i c s _ 0 0 0 0 1 _ 0 0 9 _ H E L P = i S C S I   C o n n e c t i o n   S t a t i s t i c s  
+  
+ M S i S C S I _ I n i t i a t o r I n s t a n c e S t a t i s t i c s _ 0 0 0 0 2 _ 0 0 9 _ N A M E = i S C S I   I n i t i a t o r   I n s t a n c e  
+ M S i S C S I _ I n i t i a t o r I n s t a n c e S t a t i s t i c s _ 0 0 0 0 2 _ 0 0 9 _ H E L P = i S C S I   I n i t i a t o r   I n s t a n c e   S t a t i s t i c s  
+  
+ M S i S C S I _ I n i t i a t o r L o g i n S t a t i s t i c s _ 0 0 0 0 3 _ 0 0 9 _ N A M E = i S C S I   I n i t i a t o r   L o g i n   s t a t i s t i c s  
+ M S i S C S I _ I n i t i a t o r L o g i n S t a t i s t i c s _ 0 0 0 0 3 _ 0 0 9 _ H E L P = i S C S I   I n i t i a t o r   L o g i n   S t a t i s t i c s  
+  
+ M S i S C S I _ M M I P S E C S t a t s _ 0 0 0 0 4 _ 0 0 9 _ N A M E = i S C S I   H B A   M a i n   M o d e   I P S E C   S t a t i s t i c s  
+ M S i S C S I _ M M I P S E C S t a t s _ 0 0 0 0 4 _ 0 0 9 _ H E L P = i S C S I   H B A   m a i n   m o d e   I P S E C   S t a t i s t i c s  
+  
+ M S i S C S I _ N I C P e r f o r m a n c e _ 0 0 0 m  ê   ÿÿn  ò   ÿÿo    ÿÿp  B  ÿÿq  I  ÿÿÿÿÿÿ_  ÿÿs      ÿÿt     ÿÿu      ÿÿv  9   ÿÿw  a   Ùÿx  i   ÿÿy     ÿÿz  ‰   ÿÿ{  ‘   ÿÿ|  ™   ÿÿ}  ¡   ÿÿ~  ©   ÿÿ  ±   ÿÿ€  ¹   ÿÿ  Á   ÿÿ‚  É   ÿÿƒ  Ù   ÿÿ„  á   ÿÿ…  é   ÿÿ†  ñ   ÿÿ‡  ù   ÿÿˆ    ÿÿ‰  	  ÿÿŠ    ÿÿ‹    ÿÿŒ  !  ÿÿ  )  ÿÿ  1  ÿÿ  9  ÿÿ  A  ÿÿ‘  I  ÿÿ’  Q  ÿÿ“  Y  ÿÿ”  a  ÿÿ•  i  ÿÿ–  q  ÿÿ—  y  ÿÿ˜    ÿÿ™  ¡  ÿÿš  ©  ÿÿ›  ±  ÿÿœ  ¹  ÿÿ  Á  ÿÿ  É  ÿÿŸ  Ñ  ÿÿ   Ù  ÿÿ¡  á  ÿÿ¢  é  ÿÿ£  ñ  ÿÿ¤  ù  ÿÿ¥    ÿÿ¦  	  ÿÿ§    ÿÿ¨    ÿÿ©  !  ÿÿª  I  ÿÿ«  Q  ÿÿ¬  Y  ÿÿ­  a  ÿÿ®  i  ÿÿ¯  q  ÿÿ°  y  ÿÿ±    ÿÿ²  ‰  ÿÿ³  ‘  ÿÿ´  ™  ÿÿµ  ¡  ÿÿ¶  ©  ÿÿ·  ±  ÿÿ¸  ¹  ÿÿ¹  Á  ÿÿº  É  ÿÿ»  Ù  ÿÿ¼  é  ÿÿ½  A  ÿÿ¾  Y  ÿÿ¿  a  ÿÿÀ  i  ÿÿÁ  q  ÿÿÂ  y  ÿÿÃ    ÿÿÄ  ‰  ÿÿÅ  ‘  ÿÿÆ  ™  ÿÿÇ  £  ÿÿÈ  «  ÿÿÉ  ³  ÿÿÊ  »  ÿÿË  Ã  ÿÿÌ  Ë  ÿÿÍ  Ó  ÿÿÿÿÿÿà  ÿÿÏ      ÿÿĞ     ÿÿÑ     ÿÿÒ  +   ÿÿÓ  3   ÿÿÔ  ;   ÿÿÕ  ë  ÿÿÖ    ÿÿ×  %  ÿÿØ  5  ÿÿÙ  =  ÿÿÚ  E  ÿÿÛ    ÿÿÿÿÿÿ«  ÿÿİ      ÿÿŞ     ÿÿß  *   ÿÿà  f   ÿÿá  n   ÿÿâ  {   ÿÿÿÿÿÿ†   ÿÿä      ÿÿå     ÿÿæ  
+   ÿÿç     ÿÿè  "   ÿÿé  *   ÿÿê  2   ÿÿë  3   ÿÿÿÿÿÿ7   ÿÿí      i7î     i7ï     i7ğ     i7ñ     h7ò  $   h7ó  ,   i7ô  4   i7õ  <   i7ö  D   i7÷  L   h7ø  T   i7ù  d   h7ú  l   h7û  t   h7ü  ”   h7ı  Ì   i7ş  ä   h7ÿ  ì   h7 	    h7	  $  h7	  4  i7	  \  h7	    i7	    i7	     i7	  (  i7	  I  i7		  Q  i7ÿÿÿÿm  i7	      i7	     i7	  	   i7	     i7ÿÿÿÿ   i7	      i7	     i7	  
+   i7	     i7ÿÿÿÿ   i7	      i7	     i7	     i7	     i7	     i7	  #   i7	  +   i7	  C   i7	  K   i7	  Ó   i7	  Û   i7 	  ã   i7!	  ë   i7"	  ó   i7#	  û   i7$	    i7ÿÿÿÿ  i7&	      i7'	     i7(	     i7)	     i7*	  )   i7ÿÿÿÿ/   i7,	      i7-	     i7.	     i7/	     i70	  &   i71	  .   i72	  6   i73	  >   i7ÿÿÿÿE   i75	      i76	     i77	     i78	  b   i79	  j   i7:	  r   i7;	  ‚   i7<	  Š   i7=	  ’   i7>	  š   i7ÿÿÿÿ¥   i7@	      h7A	     h7B	     h7C	     h7D	  #   h7E	  K   h7F	  «   h7G	  Û   hH	  ã   h7I	  å  h7J	  í  h7K	  õ  h7L	  ı  h7M	    h7N	  -  h7O	  5  h7P	  L  h7Q	  T  h7ÿÿÿÿ  h7S	      h7T	     h7U	     h7V	     h7ÿÿÿÿ   h7X	      h7Y	     h7Z	  
+   h7[	     h7\	  C  h7]	  K  h7^	  S  h7_	  k  h7`	  {  h7a	  ‹  h7b	  ›  h7c	  £  h7d	  «  h7e	  ³  h7f	  »  h7g	  Ã  h7h	  ã  h7i	  ó  h7j	  ;  h7k	  C  h7l	  O  h7ÿÿÿÿl  h7\ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ N T D L L . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ K E R N E L 3 2 . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ A P I S E T S C H E M A . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ K E R N E L B A S E . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ L O C A L E . N L S   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ D E V I C E D I S P L A Y O B J E C T P R O V I D E R . E X E   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ A D V A P I 3 2 . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ M S V C R T . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ S E C H O S T . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ R P C R T 4 . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ U S E R 3 2 . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ G D I 3 2 . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ L P K . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ U S P 1 0 . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ O L E 3 2 . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ D E V O B J . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ C F G M G R 3 2 . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ P R O P S Y S . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ O L E A U T 3 2 . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ D M R C . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ W I N H T T P . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ W E B I O . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ S H L W A P I . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ C A B I N E T . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ X M L L I T E . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ W I N T R U S T . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ C R Y P T 3 2 . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ M S A S N 1 . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ W E R . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ D E V R T L . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ B C R Y P T . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ I M M 3 2 . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ M S C T F . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ R P C S S . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ C R Y P T B A S E . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ C L B C A T Q . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ C R Y P T S P . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ R S A E N H . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ G L O B A L I Z A T I O N \ S O R T I N G \ S O R T D E F A U L T . N L S   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ R P C R T R E M O T E . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ S S P I C L I . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ $ M F T   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ U S E R S \ E D O N \ A P P D A T A \ L O C A L \ M I C R O S O F T \ D E V I C E   M E T A D A T A \ D M R C . I D X   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ F D P R O X Y . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ W S 2 _ 3 2 . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ N S I . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ E N - U S \ K E R N E L B A S E . D L L . M U I   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ C R E D S S P . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ D D O R E S . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ B C R Y P T P R I M I T I V E S . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ F U N D I S C . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ A T L . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ M S X M L 6 . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ M S X M L 6 R . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ F D B T H . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ B T H P R O P S . C P L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ S H E L L 3 2 . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ S E T U P A P I . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ W I N S X S \ A M D 6 4 _ M I C R O S O F T . W I N D O W S . C O M M O N - C O N T R O L S _ 6 5 9 5 B 6 4 1 4 4 C C F 1 D F _ 6 . 0 . 7 6 0 0 . 1 6 6 6 1 _ N O N E _ F A 6 2 A D 2 3 1 7 0 4 E A B 7 \ C O M C T L 3 2 . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ W I N D O W S S H E L L . M A N I F E S T   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ U X T H E M E . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ D W M A P I . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ F D P N P . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ F D P R I N T . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ W I N S P O O L . D R V   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ P R N C A C H E . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ P R O G R A M   F I L E S \ I N T E R N E T   E X P L O R E R \ I E P R O X Y . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ N E T P R O F M . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ N L A A P I . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ N P M P R O X Y . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ M S W S O C K . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ W S H T C P I P . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ W S H I P 6 . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ I P H L P A P I . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ W I N N S I . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ D H C P C S V C 6 . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ D H C P C S V C . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ D N S A P I . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ R A S A D H L P . D L L   \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ F W P U C L N T . D L L       h      ¥3ŸQüÍØ®8˜     ¨     P                                                                  \ D E V I C E \ H A R D D I S K V O L U M E 2      `   °B     €´      Yë    ¯‘    ø“     Ã‘    ¹‘    Q•     Â“     ¹ó    f›     ›     ¼œ     {–     ˜     •    ô1    ^•     ¥”     ƒš     Şï    “•     ¿$    ±.    ¡›     ƒ”     ¿å    ¿    ¦}    Oş    ;     `•     H”     ö–     ›˜     ›     •     ¼”     •     ›     „E     ›     "    Œã   	 *–          Ë™     ^‘    ü”     B•     J”     S–     ”     ¹     ™     #–     {”     E#    ˆ›     k%    R>     Ïœ     Ş•     (–     )–     š     xš     n    [™     j™     Ä™     
+™     "          	—     †     p•     n•     ÍÙ    ·š     `–     <      œ      ã     %     0     C     E     ›á                     …     &     @     	     İ     È¢    % \ D E V I C E \ H A R D D I S K V O L U M E 2 \ P R O G R A M   F I L E S   7 \ D E V I C E \ H A R D D I S K V O L U M E 2 \ P R O G R A M   F I L E S \ I N T E R N E T   E X P L O R E R    \ D E V I C E \ H A R D D I S K V O L U M E 2 \ U S E R S   " \ D E V I C E \ H A R D D I S K V O L U M E 2 \ U S E R S \ E D O N   * \ D E V I C E \ H A R D D I S K V O L U M E 2 \ U S E R S \ E D O N \ A P P D A T A   0 \ D E V I C E \ H A R D D I S K V O L U M E 2 \ U S E R S \ E D O N \ A P P D A T A \ L O C A L   : \ D E V I C E \ H A R D D I S K V O L U M E 2 \ U S E R S \ E D O N \ A P P D A T A \ L O C A L \ M I C R O S O F T   J \ D E V I C E \ H A R D D I S K V O L U M E 2 \ U S E R S \ E D O N \ A P P D A T A \ L O C A L \ M I C R O S O F T \ D E V I C E   M E T A D A T A   T \ D E V I C E \ H A R D D I S K V O L U M E 2 \ U S E R S \ E D O N \ A P P D A T A \ L O C A L \ M I C R O S O F T \ D E V I C E   M E T A D A T A \ D M R C C A C H E   Z \ D E V I C E \ H A R D D I S K V O L U M E 2 \ U S E R S \ E D O N \ A P P D A T A \ L O C A L \ M I C R O S O F T \ D E V I C E   M E T A D A T A \ D M R C C A C H E \ E N - U S    \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S   - \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ G L O B A L I Z A T I O N   5 \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ G L O B A L I Z A T I O N \ S O R T I N G   ( \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2   . \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ S Y S T E M 3 2 \ E N - U S   „ \ D E V I C E \ H A R D D I S K V O L U M E 2 \ W I N D O W S \ W I N S X S \ A M D 6 4 _ M I C R O S O F T . W I N D O W S . C O M M O N - C O N T R O L S _ 6 5 9 5 B 6 4 1 4 4 C C F 1 D F _ 6 . 0 . 7 6 0 0 . 1 6 6 6 1 _ N O N E _ F A 6 2 A D 2 3 1 7 0 4 E A B 7        B                                                                                                                                                                              09q5 0 15.5 -1t15.5 -1l-172 243l-148 -84l-37 64l142 82l-156 221h100l127 -180l144 84l37 -66l-138 -78q260 -368 298 -435q1 -2 1 -3q23 -54 23 -104v-512q0 -106 -74 -181t-178 -75h-309q-106 0 -180 75t-74 181zM211 233 q0 -67 47 -114t115 -47h309q66 0 113 47t47 114v529q0 68 -47 116t-113 48h-309q-67 0 -114.5 -48t-47.5 -116v-529z" />
+<glyph unicode="&#xf1;" horiz-adv-x="1069" d="M123 0h70q9 0 15.5 7t6.5 16v895q0 9 7 15.5t16 6.5h448q66 0 114 -48.5t48 -115.5v-753q0 -9 6 -16t14 -7h72v768q0 106 -75 182t-179 76h-473q-37 0 -63.5 -27.5t-26.5 -64.5v-934zM285 1257v125q0 28 19.5 47t47.5 19h74q37 0 53 -16l115 -111q9 -6 24 -6h39 q8 0 14.5 5.5t6.5 14.5v78q0 12 8.5 20.5t20.5 8.5h43v-131q0 -28 -19 -48t-47 -20h-72q-35 0 -55 14l-129 115q-8 8 -25 8h-22q-8 0 -14.5 -6.5t-6.5 -13.5v-74q0 -12 -8 -20.5t-20 -8.5h-47z" />
+<glyph unicode="&#xf2;" horiz-adv-x="1058" d="M119 242q0 -106 74 -181t180 -75h309q104 0 178 75t74 181v538q0 106 -74 182t-178 76h-309q-105 0 -179.5 -76t-74.5 -182v-538zM211 233v555q0 68 47.5 116t114.5 48h309q66 0 113 -48t47 -116v-555q0 -67 -47 -114t-113 -47h-309q-68 0 -115 47t-47 114zM428 1481h76 q10 0 20 -7t13 -16l75 -207h-69q-22 0 -33 25z" />
+<glyph unicode="&#xf3;" horiz-adv-x="1058" d="M119 242v538q0 106 74.5 182t179.5 76h309q104 0 178 -76t74 -182v-538q0 -106 -74 -181t-178 -75h-309q-106 0 -180 75t-74 181zM211 233q0 -67 47 -114t115 -47h309q66 0 113 47t47 114v555q0 68 -47 116t-113 48h-309q-67 0 -114.5 -48t-47.5 -116v-555zM473 1247 l76 203q3 9 13 16t20 7h75l-82 -201q-11 -25 -32 -25h-70z" />
+<glyph unicode="&#xf4;" horiz-adv-x="1058" d="M119 242q0 -106 74 -181t180 -75h309q104 0 178 75t74 181v538q0 106 -74 182t-178 76h-309q-105 0 -179.5 -76t-74.5 -182v-538zM211 233v555q0 68 47.5 116t114.5 48h309q66 0 113 -48t47 -116v-555q0 -67 -47 -114t-113 -47h-309q-68 0 -115 47t-47 114zM291 1274 l174 172q18 18 39 18h55q19 0 37 -18l170 -172h-90q-20 0 -37 20l-111 111l-110 -111q-17 -20 -37 -20h-90z" />
+<glyph unicode="&#xf5;" horiz-adv-x="1058" d="M119 242q0 -106 74 -181t180 -75h309q104 0 178 75t74 181v538q0 106 -74 182t-178 76h-309q-105 0 -179.5 -76t-74.5 -182v-538zM211 233v555q0 68 47.5 116t114.5 48h309q66 0 113 -48t47 -116v-555q0 -67 -47 -114t-113 -47h-309q-68 0 -115 47t-47 114zM301 1298v119 q0 27 19.5 45.5t46.5 18.5h69q34 0 51 -17l111 -106q12 -4 23 -4h36q21 0 21 18v76q0 10 8 18.5t19 8.5h40v-125q0 -28 -17.5 -47t-43.5 -19h-70q-33 0 -53 14l-123 109q-8 8 -22 8h-23q-7 0 -12.5 -6t-5.5 -12v-72q0 -12 -8.5 -19.5t-20.5 -7.5h-45z" />
+<glyph unicode="&#xf6;" horiz-adv-x="1058" d="M119 242q0 -106 74 -181t180 -75h309q104 0 178 75t74 181v538q0 106 -74 182t-178 76h-309q-105 0 -179.5 -76t-74.5 -182v-538zM211 233v555q0 68 47.5 116t114.5 48h309q66 0 113 -48t47 -116v-555q0 -67 -47 -114t-113 -47h-309q-68 0 -115 47t-47 114zM317 1358v90 h95q9 0 15.5 -6.5t6.5 -16.5v-90h-90q-11 0 -19 7t-8 16zM664 1358v90h94q9 0 15.5 -6.5t6.5 -16.5v-90h-90q-10 0 -18 7t-8 16z" />
+<glyph unicode="&#xf8;" horiz-adv-x="1083" d="M27 125v76q0 12 6.5 24.5t15.5 16.5l78 53v485q0 106 75.5 182t182.5 76h313q93 0 164 -60t88 -151l107 70v-76q0 -10 -7 -22.5t-16 -18.5l-80 -51v-487q0 -106 -75 -181t-181 -75h-313q-94 0 -165.5 59.5t-88.5 149.5zM221 233q0 -67 48 -114t116 -47h313q68 0 115 47 t47 114v435l-639 -414v-21zM221 356l639 414v18q0 68 -47.5 116t-114.5 48h-313q-67 0 -115.5 -48t-48.5 -116v-432z" />
+<glyph unicode="&#xf9;" horiz-adv-x="1064" d="M125 256q0 -106 74 -181t180 -75h309q104 0 178 75t74 181v770h-70q-9 0 -15.5 -6.5t-6.5 -15.5v-756q0 -67 -47 -114.5t-113 -47.5h-309q-67 0 -114.5 47t-47.5 115v756q0 9 -6.5 15.5t-15.5 6.5h-70v-770zM420 1481h82q11 0 21.5 -7t13.5 -16l79 -209h-73q-24 0 -35 25 z" />
+<glyph unicode="&#xfa;" horiz-adv-x="1064" d="M125 256v770h70q9 0 15.5 -6.5t6.5 -15.5v-756q0 -68 47.5 -115t114.5 -47h309q66 0 113 47.5t47 114.5v756q0 9 6.5 15.5t15.5 6.5h70v-770q0 -106 -74 -181t-178 -75h-309q-106 0 -180 75t-74 181zM477 1251l74 209q3 9 13 16t20 7h73l-79 -207q-11 -25 -33 -25h-68z " />
+<glyph unicode="&#xfb;" horiz-adv-x="1064" d="M125 256q0 -106 74 -181t180 -75h309q104 0 178 75t74 181v770h-70q-9 0 -15.5 -6.5t-6.5 -15.5v-756q0 -67 -47 -114.5t-113 -47.5h-309q-67 0 -114.5 47t-47.5 115v756q0 9 -6.5 15.5t-15.5 6.5h-70v-770zM307 1286l174 172q19 19 39 19h55q18 0 37 -19l170 -172h-90 q-20 0 -37 21l-110 110l-111 -110q-18 -21 -37 -21h-90z" />
+<glyph unicode="&#xfc;" horiz-adv-x="1064" d="M125 256q0 -106 74 -181t180 -75h309q104 0 178 75t74 181v770h-70q-9 0 -15.5 -6.5t-6.5 -15.5v-756q0 -67 -47 -114.5t-113 -47.5h-309q-67 0 -114.5 47t-47.5 115v756q0 9 -6.5 15.5t-15.5 6.5h-70v-770zM291 1384v95h98q11 0 18 -7.5t7 -17.5v-94h-95q-12 0 -20 7 t-8 17zM676 1384v95h98q10 0 17.5 -7.5t7.5 -17.5v-94h-94q-12 0 -20.5 7t-8.5 17z" />
+<glyph unicode="&#xfd;" horiz-adv-x="1048" d="M121 258v766h69q9 0 16 -5.5t7 -14.5v-748q0 -75 37.5 -122.5t122.5 -47.5h420q15 0 25.5 11t10.5 26v901h70q9 0 16 -5.5t7 -14.5v-1246q0 -107 -74 -182.5t-180 -75.5h-512v64q0 9 6 15.5t14 6.5h492q67 0 114 47t47 115v283q-13 -29 -55 -29l-401 -2q-123 0 -187.5 73 t-64.5 185zM465 1257l80 209q3 9 13.5 16t21.5 7h82l-89 -207q-11 -25 -34 -25h-74z" />
+<glyph unicode="&#xfe;" horiz-adv-x="1054" d="M129 -500v2026h70q9 0 15.5 -7t6.5 -16v-514q3 15 20 26t38 11h399q107 0 180.5 -71.5t73.5 -178.5v-526q0 -107 -73.5 -178.5t-180.5 -71.5h-399q-22 0 -38.5 10t-19.5 27v-514q0 -9 -6.5 -16t-15.5 -7h-70zM221 121q1 -14 11 -23.5t24 -11.5h422q67 0 114.5 48 t47.5 116v526q0 68 -47.5 116t-114.5 48h-422q-14 -2 -24 -11.5t-11 -23.5v-784z" />
+<glyph unicode="&#xff;" horiz-adv-x="1048" d="M121 258v766h69q9 0 16 -5.5t7 -14.5v-748q0 -75 37.5 -122.5t122.5 -47.5h420q15 0 25.5 11t10.5 26v901h70q9 0 16 -5.5t7 -14.5v-1246q0 -107 -74 -182.5t-180 -75.5h-512v64q0 9 6 15.5t14 6.5h492q67 0 114 47t47 115v283q-13 -29 -55 -29l-401 -2q-123 0 -187.5 73 t-64.5 185zM258 1368v94h98q11 0 18 -7t7 -17v-95h-94q-12 0 -20.5 7.5t-8.5 17.5zM686 1368v94h98q11 0 18 -7t7 -17v-95h-94q-12 0 -20.5 7.5t-8.5 17.5z" />
+<glyph unicode="&#x152;" horiz-adv-x="2174" d="M123 307v926q0 140 92 226.5t229 86.5h443q84 0 153 -40t111 -109q97 141 258 141h659v-65q0 -9 -7 -17t-17 -8h-635q-89 0 -152 -62.5t-63 -150.5v-449q18 29 59 29h758v-67q0 -9 -6.5 -17t-15.5 -8h-795v-420q0 -88 63 -151.5t152 -63.5h635q10 0 17 -6.5t7 -15.5v-66 h-659q-161 0 -258 141q-42 -69 -111 -109t-153 -40h-443q-136 0 -228.5 87.5t-92.5 227.5zM225 295q0 -89 64.5 -152t154.5 -63h443q89 0 152 63t63 152v948q0 89 -63 152t-152 63h-443q-90 0 -154.5 -63t-64.5 -152v-948z" />
+<glyph unicode="&#x153;" horiz-adv-x="1757" d="M135 248v526q0 104 74 178t178 74h297q63 0 116.5 -30t88.5 -81q79 111 203 111h282q107 0 182.5 -76t75.5 -182v-268q0 -10 -6.5 -17.5t-15.5 -7.5h-682v-225q0 -68 48 -116t116 -48h495q9 0 16 -7t7 -16v-63h-518q-127 0 -205 109q-34 -52 -87 -81.5t-116 -29.5h-297 q-104 0 -178 73.5t-74 176.5zM227 240q0 -65 47 -111.5t113 -46.5h297q66 0 113 46.5t47 111.5v542q0 66 -47 113t-113 47h-297q-66 0 -113 -47t-47 -113v-542zM928 561h610v215q0 68 -48 116t-116 48h-282q-68 0 -116 -48t-48 -116v-215z" />
+<glyph unicode="&#x178;" horiz-adv-x="1333" d="M43 1536l307 -778q14 -35 51 -61.5t74 -26.5h2l137 -8v-662h107v662l135 8h2q37 0 75.5 26.5t51.5 61.5l305 778h-90q-24 0 -31 -20l-264 -687q-12 -30 -40.5 -49.5t-61.5 -19.5h-273q-33 0 -61.5 19.5t-38.5 49.5l-264 687q-10 20 -31 20h-92zM391 1628v94h98 q11 0 18 -7t7 -17v-94h-94q-12 0 -20.5 7t-8.5 17zM819 1628v94h99q10 0 17 -7t7 -17v-94h-94q-12 0 -20.5 7t-8.5 17z" />
+<glyph unicode="&#x2c6;" horiz-adv-x="540" d="M25 1346l174 172q18 18 39 18h55q19 0 37 -18l170 -172h-90q-20 0 -37 20l-111 111l-110 -111q-17 -20 -37 -20h-90z" />
+<glyph unicode="&#x2dc;" horiz-adv-x="712" d="M125 1348v125q0 27 20 46t48 19h73q37 0 53 -16l115 -111q9 -6 25 -6h39q8 0 14 5.5t6 14.5v78q0 12 8.5 20.5t20.5 8.5h43v-131q0 -28 -19 -48t-47 -20h-71q-35 0 -56 15l-129 114q-8 8 -24 8h-23q-7 0 -13.5 -6t-6.5 -14v-74q0 -12 -8.5 -20t-20.5 -8h-47z" />
+<glyph unicode="&#x2000;" horiz-adv-x="950" />
+<glyph unicode="&#x2001;" horiz-adv-x="1901" />
+<glyph unicode="&#x2002;" horiz-adv-x="950" />
+<glyph unicode="&#x2003;" horiz-adv-x="1901" />
+<glyph unicode="&#x2004;" horiz-adv-x="633" />
+<glyph unicode="&#x2005;" horiz-adv-x="475" />
+<glyph unicode="&#x2006;" horiz-adv-x="316" />
+<glyph unicode="&#x2007;" horiz-adv-x="316" />
+<glyph unicode="&#x2008;" horiz-adv-x="237" />
+<glyph unicode="&#x2009;" horiz-adv-x="380" />
+<glyph unicode="&#x200a;" horiz-adv-x="105" />
+<glyph unicode="&#x2010;" horiz-adv-x="671" d="M53 707v59q0 10 8.5 18.5t18.5 8.5h489v-58q0 -12 -7.5 -20t-18.5 -8h-490z" />
+<glyph unicode="&#x2011;" horiz-adv-x="671" d="M53 707v59q0 10 8.5 18.5t18.5 8.5h489v-58q0 -12 -7.5 -20t-18.5 -8h-490z" />
+<glyph unicode="&#x2012;" horiz-adv-x="671" d="M53 707v59q0 10 8.5 18.5t18.5 8.5h489v-58q0 -12 -7.5 -20t-18.5 -8h-490z" />
+<glyph unicode="&#x2013;" horiz-adv-x="888" d="M123 723v63q0 10 8.5 18.5t18.5 8.5h544v-61q0 -12 -7.5 -20.5t-18.5 -8.5h-545z" />
+<glyph unicode="&#x2014;" horiz-adv-x="954" d="M123 723v63q0 10 8.5 18.5t18.5 8.5h681v-61q0 -12 -7.5 -20.5t-18.5 -8.5h-682z" />
+<glyph unicode="&#x2018;" horiz-adv-x="366" d="M123 1305v231h80q10 0 18 -8t8 -19v-131z" />
+<glyph unicode="&#x2019;" horiz-adv-x="366" d="M123 1307v153l106 74v-254h-79q-10 0 -18.5 8t-8.5 19z" />
+<glyph unicode="&#x201a;" horiz-adv-x="311" d="M96 106h68q10 0 18 -8t8 -18v-189l-94 -57v272z" />
+<glyph unicode="&#x201c;" horiz-adv-x="479" d="M100 1266v268h70q10 0 18.5 -8t8.5 -19v-182zM289 1266v268h69q10 0 18.5 -8t8.5 -19v-182z" />
+<glyph unicode="&#x201d;" horiz-adv-x="477" d="M98 1286v182l97 60v-268h-70q-11 0 -19 8t-8 18zM287 1286v182l96 60v-268h-70q-11 0 -18.5 8t-7.5 18z" />
+<glyph unicode="&#x201e;" horiz-adv-x="518" d="M96 106h68q10 0 18 -8t8 -18v-189l-94 -57v272zM332 106h67q11 0 19 -8t8 -18v-189l-94 -57v272z" />
+<glyph unicode="&#x2022;" horiz-adv-x="385" d="M92 659v138h137q19 0 33 -14t14 -33v-138h-137q-19 0 -33 14t-14 33z" />
+<glyph unicode="&#x2026;" horiz-adv-x="1234" d="M123 27v96h80q10 0 18 -8t8 -19v-96h-79q-10 0 -18.5 8t-8.5 19zM535 27v96h79q10 0 18.5 -8.5t8.5 -18.5v-96h-80q-10 0 -18 8t-8 19zM946 27v96h80q10 0 18.5 -8.5t8.5 -18.5v-96h-80q-11 0 -19 8t-8 19z" />
+<glyph unicode="&#x202f;" horiz-adv-x="380" />
+<glyph unicode="&#x205f;" horiz-adv-x="475" />
+<glyph unicode="&#x20ac;" horiz-adv-x="1126" d="M47 625v65q0 9 7 16t16 7h118v149h-141v66q0 9 7 15.5t16 6.5h118v283q0 132 88 217.5t222 85.5h520v-66q0 -10 -7 -17t-16 -7h-497q-89 0 -152 -63t-63 -152v-281h645v-65q0 -9 -7.5 -16t-17.5 -7h-620v-149h645v-64q0 -10 -7 -17t-18 -7h-620v-322q0 -89 63 -152 t152 -63h497q9 0 16 -7.5t7 -17.5v-63h-520q-134 0 -222 86t-88 219v320h-141z" />
+<glyph unicode="&#x2122;" horiz-adv-x="1099" d="M98 1503v21q0 8 6 8h324v-21q0 -8 -6 -8h-141v-444q0 -1 -3.5 -4.5t-5.5 -3.5h-26v452h-148zM485 1051v481h39q6 0 6 -4l179 -322l178 322l4 4h39v-481h-23q-8 0 -8 8v432q-143 -266 -166 -309q-3 -6 -10 -6h-27q-10 0 -10 6l-170 309v-432q0 -8 -4 -8h-27z" />
+<glyph unicode="&#xe000;" horiz-adv-x="1024" d="M0 0v1024h1024v-1024h-1024z" />
+<hkern u1="&#x20;" u2="&#xc6;" k="-49" />
+<hkern u1="&#x20;" u2="&#xc5;" k="-49" />
+<hkern u1="&#x20;" u2="&#xc4;" k="-49" />
+<hkern u1="&#x20;" u2="&#xc3;" k="-49" />
+<hkern u1="&#x20;" u2="&#xc2;" k="-49" />
+<hkern u1="&#x20;" u2="&#xc1;" k="-49" />
+<hkern u1="&#x20;" u2="&#xc0;" k="-49" />
+<hkern u1="&#x20;" u2="r" k="86" />
+<hkern u1="&#x20;" u2="\" k="1217" />
+<hkern u1="&#x20;" u2="R" k="-80" />
+<hkern u1="&#x20;" u2="A" k="-49" />
+<hkern u1="&#x20;" u2="&#x21;" k="1280" />
+<hkern u1="&#x32;" u2="&#x33;" k="-23" />
+<hkern u1="&#x37;" u2="e" k="47" />
+<hkern u1="N" u2="&#xc6;" k="31" />
+<hkern u1="N" u2="&#xc5;" k="31" />
+<hkern u1="N" u2="&#xc4;" k="31" />
+<hkern u1="N" u2="&#xc3;" k="31" />
+<hkern u1="N" u2="&#xc2;" k="31" />
+<hkern u1="N" u2="&#xc1;" k="31" />
+<hkern u1="N" u2="&#xc0;" k="31" />
+<hkern u1="N" u2="A" k="31" />
+<hkern u1="R" u2="&#xdc;" k="16" />
+<hkern u1="R" u2="&#xdb;" k="16" />
+<hkern u1="R" u2="&#xda;" k="16" />
+<hkern u1="R" u2="&#xd9;" k="16" />
+<hkern u1="R" u2="U" k="16" />
+<hkern u1="R" u2="E" k="47" />
+<hkern u1="U" u2="N" k="16" />
+<hkern u1="V" u2="x" k="129" />
+<hkern u1="a" u2="d" k="-43" />
+<hkern u1="b" u2="l" k="-86" />
+<hkern u1="b" u2="d" k="-170" />
+<hkern u1="e" u2="x" k="86" />
+<hkern u1="g" u2="x" k="86" />
+<hkern u1="h" u2="i" k="-86" />
+<hkern u1="h" u2="g" k="-66" />
+<hkern u1="h" u2="e" k="-49" />
+<hkern u1="h" u2="d" k="-43" />
+<hkern u1="i" u2="s" k="-41" />
+<hkern u1="i" u2="j" k="86" />
+<hkern u1="o" u2="x" k="86" />
+<hkern u1="o" u2="v" k="63" />
+<hkern u1="o" u2="l" k="-86" />
+<hkern u1="p" u2="s" k="-43" />
+<hkern u1="p" u2="q" k="-213" />
+<hkern u1="p" u2="l" k="-43" />
+<hkern u1="q" u2="x" k="86" />
+<hkern u1="r" u2="e" k="-43" />
+<hkern u1="t" u2="h" k="-33" />
+<hkern u1="v" u2="e" k="47" />
+<hkern u1="x" u2="&#xff;" k="43" />
+<hkern u1="x" u2="&#xfd;" k="43" />
+<hkern u1="x" u2="&#xfc;" k="43" />
+<hkern u1="x" u2="&#xfb;" k="43" />
+<hkern u1="x" u2="&#xfa;" k="43" />
+<hkern u1="x" u2="&#xf9;" k="43" />
+<hkern u1="x" u2="y" k="43" />
+<hkern u1="x" u2="w" k="43" />
+<hkern u1="x" u2="u" k="43" />
+<hkern u1="x" u2="t" k="43" />
+<hkern u1="x" u2="p" k="43" />
+<hkern u1="x" u2="&#x38;" k="43" />
+<hkern u1="x" u2="&#x30;" k="43" />
+<hkern u1="y" u2="&#x40;" k="-84" />
+<hkern u1="&#xd9;" u2="N" k="16" />
+<hkern u1="&#xda;" u2="N" k="16" />
+<hkern u1="&#xdb;" u2="N" k="16" />
+<hkern u1="&#xdc;" u2="N" k="16" />
+<hkern u1="&#xe0;" u2="d" k="-43" />
+<hkern u1="&#xe1;" u2="d" k="-43" />
+<hkern u1="&#xe2;" u2="d" k="-43" />
+<hkern u1="&#xe3;" u2="d" k="-43" />
+<hkern u1="&#xe4;" u2="d" k="-43" />
+<hkern u1="&#xe5;" u2="d" k="-43" />
+<hkern u1="&#xe8;" u2="x" k="86" />
+<hkern u1="&#xe9;" u2="x" k="86" />
+<hkern u1="&#xea;" u2="x" k="86" />
+<hkern u1="&#xeb;" u2="x" k="86" />
+<hkern u1="&#xf0;" u2="l" k="-86" />
+<hkern u1="&#xf2;" u2="x" k="86" />
+<hkern u1="&#xf2;" u2="l" k="-86" />
+<hkern u1="&#xf3;" u2="x" k="86" />
+<hkern u1="&#xf3;" u2="l" k="-86" />
+<hkern u1="&#xf4;" u2="x" k="86" />
+<hkern u1="&#xf4;" u2="l" k="-86" />
+<hkern u1="&#xf5;" u2="x" k="86" />
+<hkern u1="&#xf5;" u2="l" k="-86" />
+<hkern u1="&#xf6;" u2="x" k="86" />
+<hkern u1="&#xf6;" u2="l" k="-86" />
+<hkern u1="&#xfe;" u2="l" k="-86" />
+<hkern u1="&#xfe;" u2="d" k="-170" />
+<hkern g1="a,h,agrave,aacute,acircumflex,atilde,adieresis,aring" 	g2="z" 	k="63" />
+<hkern g1="b,thorn" 	g2="c,d,ccedilla,oe" 	k="-127" />
+</font>
+</defs></svg> 
